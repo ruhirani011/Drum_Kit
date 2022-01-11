@@ -34,9 +34,11 @@ OR download as a `zip file` and extract.
  
 <h2>Try it here :</h2>
  https://ruhirani011.github.io/Drum_Kit/
+ 
+ <br><br>
 
-
-![](images/flpbird.jpg)
+## Have a look here:
+![](Drum.jpeg)
 
 <h2>Technologies Used :</h2>
 
