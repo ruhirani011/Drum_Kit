@@ -5,8 +5,7 @@ for(var i=0;i<numOfDrumBtns;i++){
 
     document.querySelectorAll(".drum")[i].addEventListener("click" ,function () {
        
-        //console.log(this.innerHTML);
-       // this.style.color = "blue";
+        
        var btnInnerHtml = this.innerHTML;
      
        makeSound(btnInnerHtml);
@@ -15,8 +14,7 @@ for(var i=0;i<numOfDrumBtns;i++){
     } );
        
 }
-// var audio = new Audio('sounds/crash.mp3');
-// audio.play();
+
 
 
 document.addEventListener("keypress",function(event) {
